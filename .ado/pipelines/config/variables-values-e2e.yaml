@@ -25,4 +25,4 @@ variables:
 
 # Other settings
 - name:  'contactEmail'
-  value: 'mbj78@hotmail.com  # <===== CHANGE THIS VALUE TO ONE OF YOUR REAL EMAIL ADDRESSES (OR A GROUP)!
+  value: 'mbj78@hotmail.com'  # <===== CHANGE THIS VALUE TO ONE OF YOUR REAL EMAIL ADDRESSES (OR A GROUP)!
